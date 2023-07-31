@@ -23,7 +23,7 @@
         <div class="password">Forgot Password?</div>
         <input type="submit" value="Login">
         <div class="link_register">
-          Not a member? <a href="#">Signup</a>
+          Belum punya akun? <a href="#">Signup</a>
         </div>
       </form>
     </div>
